@@ -7,3 +7,11 @@
 4.git commit -m "message"
 5.git push 
 6.any changes made in github "git pull"
+7.Commits:
+        (i)fix : fixed somthing in the files
+        (ii)refctor : changessomething new on somthing
+        (iii)feat : added some feature
+        (iv)docs : documented on files
+        (v)chore : fixed something which is not more importent
+        (vi)!fix : Breakage message ("affects the friend's program code")
+        (vii)
