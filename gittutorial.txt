@@ -1,0 +1,6 @@
+1.git clone
+2.create files in the folder
+3.git add
+4.git commit -m "message"
+5.git push 
+6.any changes made in github "git pull"
