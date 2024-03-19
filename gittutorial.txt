@@ -1,3 +1,6 @@
+-------------------------------- GIT COMMENTS ------------------------------------------
+
+
 1.git clone
 2.create files in the folder
 3.git add
